@@ -1,7 +1,7 @@
 live: https://bubblematch.netlify.app/
 
 <p>
-Every time you click on a bubble that is same as the Hit number, all the bubbles refresh and a new Hit is being updated. 
+Every time you click on a bubble that is same as the Hit number, all the bubbles refresh and a new Hit is being updated. At the same time, the Score is updated for every right Bubble Match.
 Timer of 60secs.
 Score is shown once the timer reaches 0.  </p>
 
