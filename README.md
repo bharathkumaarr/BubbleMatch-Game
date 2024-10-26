@@ -6,6 +6,6 @@
 <p>Timer of 60secs.</p>
 <p>Your Total Score is shown once the timer reaches 0. </p>
 <p></p>
-<p>----Quick project, therefore it isn't responsive.----</p>
+<p>----Quick project, therefore it isn't responsive. Best view: on a desktop browser----</p>
 <img src="bubbleMatch.png" alt="Alt Text" width="800">
 
